@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rancher-data-opportunity": {
+      "type": "http",
+      "url": "https://rancher-production.up.railway.app/mcp"
+    }
+  }
+}
